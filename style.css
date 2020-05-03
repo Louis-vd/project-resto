@@ -93,7 +93,8 @@ h1{
   text-align:center;
   font-family: 'Kaushan Script', cursive;
   font-size: 800%;
-  padding-bottom: 1em;
+  margin-top: 220px;
+  
 }
 
 h2{
@@ -107,6 +108,10 @@ h2{
 
 img{
   width:100%;
+}
+
+#big_title{
+  height: 960px;
 }
 
 
