@@ -1,3 +1,3 @@
 # project-resto
 
-## projet solo
+[https://louis-vd.github.io/project-resto/]
